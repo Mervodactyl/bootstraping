@@ -2,6 +2,7 @@
 
 Experimenting with bootstrap and building layouts
 
-##grid_columns_rows
+##Bootylicious.html
 
-HTML doc made with 'separate stylesheets' using the Bootstrap container class system
+Made with 'separate stylesheets' using the Bootstrap container class system
+Text incorporation and styles developed
